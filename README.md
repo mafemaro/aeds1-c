@@ -30,11 +30,11 @@ O objetivo é organizar e compartilhar meu aprendizado, além de servir como um 
 - Conceito de ponteiros e alocação dinâmica de memória
 - Uso de ponteiros em funções
 
-### 🔄 Programação Orientada a Objetos (POO) em C++
+### ✅ Programação Orientada a Objetos (POO) em C++
 - Introdução aos conceitos de POO, como classes e objetos
 - Simulação de POO em C++ com exemplos práticos
 
-### 🔄 Recursão
+### ✅ Recursão
 - Conceito de recursão e exemplos clássicos
 - Comparação entre recursão e iteração
 
