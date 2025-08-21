@@ -66,8 +66,9 @@ orientacao-objetos/ → introdução ao paradigma OO em C+.
 2. **Baixe o arquivo para o seu computador**: Use a opção de download para salvar o arquivo localmente.
 3. **Compile o código**: Utilize um compilador de sua preferência para compilar e executar o programa.
 
-💻 Desenvolvido com dedicação para a disciplina de AEDS I
+## 💻 Desenvolvido com dedicação para a disciplina de AEDS I
 🎓 Maria Fernanda Oliveira Maro [Aluna de Ciência da Computação PUC Minas]!
+
 🎯 Foco em aprendizado prático e compartilhamento de conhecimento
 
 💡 Esse repositório vai sendo atualizado conforme a disciplina avança. Fique à vontade para explorar e sugerir melhorias!
