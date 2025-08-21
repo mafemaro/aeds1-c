@@ -56,9 +56,11 @@ arquivos/ → leitura e escrita em arquivos.
 
 ponteiros/ → conceitos e aplicações.
 
+funcoes/ → sub rotinas em c.
+
 recursao/ → funções recursivas.
 
-orientacao-objetos/ → introdução ao paradigma OO em C+.
+orientacao-objetos/ → introdução ao paradigma OO em C++.
 
 ## 🛠️ Como Usar Este Repositório
 
