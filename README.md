@@ -1,6 +1,6 @@
 # Repositório de AEDS I - Algoritmo e Estruturas de Dados
 
-Bem-vindo ao meu repositório de AEDS I Ciência da Computação PUC Minas! Este repositório contém implementações em C dos conceitos fundamentais da disciplina de Algoritmos e Estruturas de Dados I. 
+Bem-vindo ao meu repositório de AEDS I Ciência da Computação PUC Minas! Este repositório contém implementações em C dos conceitos fundamentais da disciplina de Algoritmo e Estruturas de Dados I. 
 O objetivo é organizar e compartilhar meu aprendizado, além de servir como um recurso para outros estudantes.
 
 ## 📚 Conteúdos Abordados
