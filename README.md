@@ -52,6 +52,14 @@ Se quiser trocar ideias, tirar dúvidas ou mandar sugestões:
 
 ---
 
+## 📖 Guia de Como Rodar os Códigos em C
+
+Se você está começando agora e não sabe como compilar ou executar os programas em C, preparei um guia rápido para ajudar:  
+
+👉 [Clique aqui para acessar o guia completo](./guia-ambiente-c.md)  
+
+---
+
 ## 📄 Licença
 
 Este repositório está sob a licença MIT.  
