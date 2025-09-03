@@ -10,7 +10,11 @@ int main(){
   scanf("%f", &notas);
    
   // legal também fazer um verificador aqui de que se o usuario digitar uma nota maior que 100, o programa parar
+<<<<<<< HEAD
   while(notas >= 0){
+=======
+  while(nota >= 0){
+>>>>>>> a6e5c8f8d30a62e8d6cf86828a72b571496fc4e2
     soma += notas;
     contador++;
     printf("\nEntre com o valor da compra: ");
