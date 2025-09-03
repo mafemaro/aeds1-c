@@ -13,15 +13,17 @@ O repositório está em constante atualização, já que acompanho o andamento d
 - Conceitos Básicos  
 - Estruturas Condicionais  
 - Estruturas de Repetição  
-- Funções (Sub-rotinas)  
+- Funções (Sub-rotinas)
+- Recursão
+- Ponteiros
+- Arquivos
 - Vetores  
 - Matrizes  
-- Strings  
-- Ponteiros  
-- Alocação Dinâmica  
-- Arquivos  
-- Recursão  
-- Testes e Documentação 
+- Strings    
+- Alocação Dinâmica      
+- Testes e Documentação
+- Structs
+- POO (C++)
 
 ---
 
