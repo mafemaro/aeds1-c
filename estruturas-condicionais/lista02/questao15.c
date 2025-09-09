@@ -11,7 +11,7 @@ int main(){
   if(numero % 2 == 0){
     int quadrado = 0;
     quadrado = pow(numero, 2);
-    printf("O quadrado do numero %d eh: %d", numero, cubo);
+    printf("O quadrado do numero %d eh: %d", numero, quadrado);
   }else{
     int cubo = 0;
     cubo = pow(numero, 3);
