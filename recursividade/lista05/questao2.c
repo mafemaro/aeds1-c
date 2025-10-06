@@ -17,7 +17,7 @@ float T(int n) {
 
 int main() {
     int n;
-    printf("Digite o valor de n: ");
+    printf("\nDigite o valor de n: ");
     scanf("%d", &n);
 
     if (n < 1) {
