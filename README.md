@@ -1,33 +1,89 @@
-# Algoritmo e Estruturas de Dados I
+# 🧠 Algoritmo e Estruturas de Dados I  
+
+[![Linguagem](https://img.shields.io/badge/Linguagem-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Linguagem](https://img.shields.io/badge/Linguagem-C++-00599C.svg)](https://isocpp.org/)
+[![Licença](https://img.shields.io/badge/Licença-MIT-green.svg)](./LICENSE)
+![Status](https://img.shields.io/badge/Status-Em%20andamento-yellow.svg)
+![PUC Minas](https://img.shields.io/badge/Instituição-PUC%20Minas-blueviolet.svg)
+
+---
 
 Repositório criado por **Maria Fernanda Oliveira Maro** ✨  
 
-Aqui compartilho minha jornada de estudos em **Algoritmo e Estruturas de Dados I**.  
-A ideia é dividir meu aprendizado, disponibilizar materiais e exemplos práticos para que outras pessoas também possam se beneficiar.  
-O repositório está em constante atualização, já que acompanho o andamento da disciplina e vou adicionando novos conteúdos com o tempo. 🚀  
+Este espaço reúne minha jornada de aprendizado em **Algoritmo e Estruturas de Dados I**, disciplina fundamental no curso de **Ciência da Computação na PUC Minas**.  
+O objetivo é compartilhar conteúdos, exercícios resolvidos e exemplos práticos para auxiliar outros estudantes que também estão explorando o mundo da programação. 🚀  
 
 ---
 
-## 📂 Estrutura do Repositório
+## 🧰 Tecnologias Utilizadas  
 
+| Tecnologia | Descrição |
+|-------------|------------|
+| 🟦 **C** | Linguagem base da disciplina, utilizada para desenvolver lógica e manipulação de dados. |
+| 🟦 **C++** | Introduz conceitos de Programação Orientada a Objetos (POO). |
+| 🧩 **VS Code / Code::Blocks** | Ambientes utilizados para desenvolver e testar os programas. |
+| 💾 **Git & GitHub** | Controle de versão e compartilhamento dos projetos. |
+
+---
+
+## 📁 Estrutura do Repositório  
+
+Cada pasta contém (ou conterá):  
+- 🧩 **Listas de exercícios** com soluções (minhas e as do professor);  
+- 💻 **Exercícios realizados em aula e em casa**;  
+- 📝 **Materiais de apoio** e anotações.  
+
+### 🧱 Parte 1 – Fundamentos  
 - Conceitos Básicos  
 - Estruturas Condicionais  
 - Estruturas de Repetição  
-- Funções (Sub-rotinas)
-- Recursão
-- Ponteiros
-- Arquivos
+- Funções (Sub-rotinas)  
+- Recursão  
+- Prova 1  
+
+### 🧭 Parte 2 – Estruturas e Manipulação de Dados  
+- Ponteiros  
+- Arquivos  
 - Vetores  
 - Matrizes  
-- Strings    
-- Alocação Dinâmica      
-- Testes e Documentação
-- Structs
-- POO (C++)
+- Strings  
+- Structs  
+
+### ⚙️ Parte 3 – Programação Orientada a Objetos (C++)  
+- Classes e Objetos  
+- Construtores  
+- Encapsulamento  
+- Herança  
+- Polimorfismo  
+- Métodos Acessores  
+- Classes com Vetores e Matrizes  
+- Tratamento de Exceções  
 
 ---
 
-## 🚀 Como Usar este Repositório
+## 🌳 Estrutura do Projeto - Até o Momento
+
+```bash
+📦 aeds1-c
+ ┣ 📂 parte1
+ ┃ ┣ 📜 conceitos-basicos/
+ ┃ ┣ 📜 estruturas-condicionais/
+ ┃ ┣ 📜 prova1/
+ ┃ ┣ 📜 recursividade/
+ ┃ ┗ 📜 sub-rotinas/
+ ┣ 📂 parte2
+ ┃ ┣ 📜 arquivos/
+ ┃ ┣ 📜 ponteiros/
+ ┃ ┣ 📜 string/
+ ┃ ┗ 📜 vetores-matrizes/
+ ┣ 📜 guia-ambiente-c.md
+ ┣ 📜 LICENSE
+ ┗ 📜 README.md
+```
+
+---
+
+## 🚀 Como Usar este Repositório  
 
 1. Navegue pelas pastas para encontrar o conteúdo desejado.  
 2. Dentro de cada pasta você encontrará exemplos e exercícios resolvidos.  
@@ -35,7 +91,7 @@ O repositório está em constante atualização, já que acompanho o andamento d
 
 ---
 
-## 📬 Dúvidas e Contato
+## 📬 Dúvidas e Contato  
 
 Se quiser trocar ideias, tirar dúvidas ou mandar sugestões:  
 
@@ -44,7 +100,7 @@ Se quiser trocar ideias, tirar dúvidas ou mandar sugestões:
 
 ---
 
-## 📌 Informações Importantes
+## 📌 Informações Importantes  
 
 - Criado por: **Maria Fernanda Oliveira Maro**  
 - Linguagem utilizada: **C**  
@@ -54,7 +110,7 @@ Se quiser trocar ideias, tirar dúvidas ou mandar sugestões:
 
 ---
 
-## 📖 Guia de Como Rodar os Códigos em C
+## 📖 Guia de Como Rodar os Códigos em C  
 
 Se você está começando agora e não sabe como compilar ou executar os programas em C, preparei um guia rápido para ajudar:  
 
@@ -62,7 +118,7 @@ Se você está começando agora e não sabe como compilar ou executar os program
 
 ---
 
-## 📄 Licença
+## 📄 Licença  
 
 Este repositório está sob a licença MIT.  
 Você pode usar o código para fins educacionais e pessoais, desde que mantenha os devidos créditos.  
