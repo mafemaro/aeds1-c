@@ -65,13 +65,13 @@ Cada pasta contém (ou conterá):
 
 ```bash
 📦 aeds1-c
- ┣ 📂 parte1
+ ┣ 📂 pt1-semestre
  ┃ ┣ 📜 conceitos-basicos/
  ┃ ┣ 📜 estruturas-condicionais/
  ┃ ┣ 📜 prova1/
  ┃ ┣ 📜 recursividade/
  ┃ ┗ 📜 sub-rotinas/
- ┣ 📂 parte2
+ ┣ 📂 pt2-semestre
  ┃ ┣ 📜 arquivos/
  ┃ ┣ 📜 ponteiros/
  ┃ ┣ 📜 string/
@@ -97,16 +97,6 @@ Se quiser trocar ideias, tirar dúvidas ou mandar sugestões:
 
 - 📧 [mariafernandaomaro@gmail.com](mailto:mariafernandaomaro@gmail.com)  
 - 💼 [LinkedIn – Maria Fernanda Maro](https://www.linkedin.com/in/maria-fernanda-maro)  
-
----
-
-## 📌 Informações Importantes  
-
-- Criado por: **Maria Fernanda Oliveira Maro**  
-- Linguagem utilizada: **C**  
-- Instituição: **PUC Minas**  
-- Disciplina: **Algoritmo e Estruturas de Dados I**  
-- Status: 🚧 Em andamento (conteúdo sendo adicionado aos poucos)  
 
 ---
 
