@@ -8,7 +8,7 @@ int soma(int n){
 int main(){
   int n;
 
-  printf("\nDigite o numero: ");
+  printf("\nInsira o último número do intervalo começando em 1:");
   scanf("%d", &n);
 
   int resultado = soma(n);
