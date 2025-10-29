@@ -74,7 +74,8 @@ Cada pasta contém (ou conterá):
  ┣ 📂 pt2-semestre
  ┃ ┣ 📜 arquivos/
  ┃ ┣ 📜 ponteiros/
- ┃ ┣ 📜 string/
+ ┃ ┣ 📜 strings/
+ ┃ ┣ 📜 structs/
  ┃ ┗ 📜 vetores-matrizes/
  ┣ 📜 guia-ambiente-c.md
  ┣ 📜 LICENSE
@@ -93,7 +94,7 @@ Cada pasta contém (ou conterá):
 
 ## 📬 Dúvidas e Contato  
 
-Se quiser trocar ideias, tirar dúvidas ou mandar sugestões:  
+Se quiser trocar ideias, tirar dúvidas, dar feedbacks ou mandar sugestões:  
 
 - 📧 [mariafernandaomaro@gmail.com](mailto:mariafernandaomaro@gmail.com)  
 - 💼 [LinkedIn – Maria Fernanda Maro](https://www.linkedin.com/in/maria-fernanda-maro)  
