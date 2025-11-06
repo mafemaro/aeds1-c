@@ -77,6 +77,9 @@ Cada pasta contém (ou conterá):
  ┃ ┣ 📜 strings/
  ┃ ┣ 📜 structs/
  ┃ ┗ 📜 vetores-matrizes/
+ ┣ 📂 verde
+ ┃ ┗ 📜 semana01
+ ┃ ┗ 📜 semana02
  ┣ 📜 guia-ambiente-c.md
  ┣ 📜 LICENSE
  ┗ 📜 README.md

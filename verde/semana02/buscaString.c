@@ -1,44 +1,49 @@
 #include <stdio.h>
-#include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
 
 int main() {
-    int numeroStrings;
-    scanf("%d", &numeroStrings);
+    int N;
+    scanf("%d", &N);
 
-    char palavraAlvo[100];
-    scanf(" %[^\n]", palavraAlvo);
+    char palavra[100];
+    fgets(palavra, sizeof(palavra), stdin);
+    palavra[strcspn(palavra, "\n")] = '\0';
 
-    char palavraAlvoMinuscula[100];
-    for (int i = 0; palavraAlvo[i]; i++) {
-        palavraAlvoMinuscula[i] = tolower(palavraAlvo[i]);
+    for (int i = 0; palavra[i]; i++) {
+        palavra[i] = tolower(palavra[i]);
     }
-    palavraAlvoMinuscula[strlen(palavraAlvo)] = 0;
 
     int contador = 0;
-    for (int i = 0; i < numeroStrings; i++) {
-        char string[1000];
-        scanf(" %[^\n]", string);
 
-        char *token = strtok(string, " ");
-        int encontrado = 0;
+    for (int i = 0; i < N; i++) {
+        char frase[1000];
+        fgets(frase, sizeof(frase), stdin);
+        frase[strcspn(frase, "\n")] = '\0';
+
+        char fraseCopia[1000];
+        strcpy(fraseCopia, frase);
+
+        char *token = strtok(fraseCopia, " ");
+        int encontrou = 0;
+
         while (token != NULL) {
-            char palavraMinuscula[100];
-            for (int j = 0; token[j]; j++) {
-                palavraMinuscula[j] = tolower(token[j]);
+            char palavraAtual[100];
+            strcpy(palavraAtual, token);
+            for (int j = 0; palavraAtual[j]; j++) {
+                palavraAtual[j] = tolower(palavraAtual[j]);
             }
-            palavraMinuscula[strlen(token)] = 0;
 
-            if (strcmp(palavraMinuscula, palavraAlvoMinuscula) == 0) {
-                encontrado = 1;
+            if (strcmp(palavraAtual, palavra) == 0) {
+                encontrou = 1;
                 break;
             }
             token = strtok(NULL, " ");
         }
-        if (encontrado) contador++;
+
+        if (encontrou) contador++;
     }
 
     printf("%d\n", contador);
-
+    return 0;
 }
