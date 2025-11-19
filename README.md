@@ -77,6 +77,7 @@ Cada pasta contém (ou conterá):
  ┃ ┣ 📜 strings/
  ┃ ┣ 📜 structs/
  ┃ ┗ 📜 vetores-matrizes/
+ ┣ 📂 pt3-semestre
  ┣ 📂 verde
  ┃ ┗ 📜 semana01
  ┃ ┗ 📜 semana02
