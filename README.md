@@ -79,8 +79,9 @@ Cada pasta contém (ou conterá):
  ┃ ┗ 📜 vetores-matrizes/
  ┣ 📂 pt3-semestre
  ┣ 📂 verde
- ┃ ┗ 📜 semana01
- ┃ ┗ 📜 semana02
+ ┃ ┣ 📜 semana01/
+ ┃ ┣ 📜 semana02/
+ ┃ ┗ 📜 semana03/
  ┣ 📜 guia-ambiente-c.md
  ┣ 📜 LICENSE
  ┗ 📜 README.md
