@@ -4,8 +4,11 @@ int main(){
   char string1[100];
   char string2[100];
 
-  printf("\nDigite as duas strings: ");
-  scanf("%[^\n] %[^\n]", string1, string2);
+  printf("\nDigite a primeira string: ");
+  fgets(string1, sizeof(string1), stdin);
+
+  printf("\nDigite a segunda string: ");
+  fgets(string2, sizeof(string2), stdin);
   
   int i = 0;
   int iguais = 1;

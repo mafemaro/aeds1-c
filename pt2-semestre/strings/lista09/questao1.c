@@ -4,7 +4,7 @@ int main(){
   char frase[100];
 
   printf("\nDigite sua frase: ");
-  scanf("%[^\n]", frase);
+  fgets(frase, sizeof(frase), stdin);
 
   int i = 0;
   while(frase[i]!= '\0'){

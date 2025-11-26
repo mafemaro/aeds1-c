@@ -4,7 +4,7 @@ int main(){
   char nome[100];
 
   printf("\nDigite seu nome: ");
-  scanf("%[^\n]", nome);
+  fgets(nome, sizeof(nome), stdin);
 
   if(nome[0] == 'A' || nome[0] == 'a'){
     printf("\n%s", nome);
