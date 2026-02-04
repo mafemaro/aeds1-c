@@ -38,7 +38,6 @@ Cada pasta contém:
 * OBS: algumas faltam as soluções, mas todas as listas que recebemos estão disponibilizadas!
 
 ### 📘 pt1-semestre — Fundamentos  
-- Conceitos Básicos  
 - Estruturas Condicionais  
 - Estruturas de Repetição  
 - Funções (Sub-rotinas)  
@@ -78,7 +77,6 @@ Cada pasta contém:
 ```bash
 📦 aeds1-c
  ┣ 📂 pt1-semestre
- ┃ ┣ 📜 conceitos-basicos/
  ┃ ┣ 📜 estruturas-condicionais/
  ┃ ┣ 📜 prova1/
  ┃ ┣ 📜 recursividade/
