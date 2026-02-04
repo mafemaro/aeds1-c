@@ -3,7 +3,7 @@
 [![Linguagem](https://img.shields.io/badge/Linguagem-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Linguagem](https://img.shields.io/badge/Linguagem-C++-00599C.svg)](https://isocpp.org/)
 [![Licença](https://img.shields.io/badge/Licença-MIT-green.svg)](./LICENSE)
-![Status](https://img.shields.io/badge/Status-Em%20andamento-yellow.svg)
+![Status](https://img.shields.io/badge/Status-Finalizado%20com%20sucesso-brightgreen.svg)
 ![PUC Minas](https://img.shields.io/badge/Instituição-PUC%20Minas-blueviolet.svg)
 
 ---
@@ -12,6 +12,8 @@ Repositório criado por **Maria Fernanda Oliveira Maro** ✨
 
 Este espaço reúne minha jornada de aprendizado em **Algoritmo e Estruturas de Dados I**, disciplina fundamental no curso de **Ciência da Computação na PUC Minas**.  
 O objetivo é compartilhar conteúdos, exercícios resolvidos e exemplos práticos para auxiliar outros estudantes que também estão explorando o mundo da programação. 🚀  
+
+✅ **Status do projeto:** repositório finalizado com sucesso, contemplando todo o conteúdo previsto na disciplina.
 
 ---
 
@@ -28,12 +30,14 @@ O objetivo é compartilhar conteúdos, exercícios resolvidos e exemplos prátic
 
 ## 📁 Estrutura do Repositório  
 
-Cada pasta contém (ou conterá):  
+Cada pasta contém:  
 - 🧩 **Listas de exercícios** com soluções (minhas e as do professor);  
 - 💻 **Exercícios realizados em aula e em casa**;  
-- 📝 **Materiais de apoio** e anotações.  
+- 📝 **Materiais de apoio**, slides e anotações.  
 
-### 🧱 Parte 1 – Fundamentos  
+* OBS: algumas faltam as soluções, mas todas as listas que recebemos estão disponibilizadas!
+
+### 📘 pt1-semestre — Fundamentos  
 - Conceitos Básicos  
 - Estruturas Condicionais  
 - Estruturas de Repetição  
@@ -41,15 +45,16 @@ Cada pasta contém (ou conterá):
 - Recursão  
 - Prova 1  
 
-### 🧭 Parte 2 – Estruturas e Manipulação de Dados  
+### 📗 pt2-semestre — Estruturas e Manipulação de Dados  
 - Ponteiros  
 - Arquivos  
 - Vetores  
 - Matrizes  
 - Strings  
-- Structs  
+- Prova 2  
 
-### ⚙️ Parte 3 – Programação Orientada a Objetos (C++)  
+### 📙 pt3-semestre — Programação Orientada a Objetos (C++)  
+- Structs  
 - Classes e Objetos  
 - Construtores  
 - Encapsulamento  
@@ -58,6 +63,13 @@ Cada pasta contém (ou conterá):
 - Métodos Acessores  
 - Classes com Vetores e Matrizes  
 - Tratamento de Exceções  
+
+### 🌱 Pasta `verde` — Atividades Semanais  
+- semana01  
+- semana02  
+- semana03  
+- semana04  
+- semana05  
 
 ---
 
@@ -72,20 +84,20 @@ Cada pasta contém (ou conterá):
  ┃ ┣ 📜 recursividade/
  ┃ ┗ 📜 sub-rotinas/
  ┣ 📂 pt2-semestre
- ┃ ┣ 📜 arquivos/
  ┃ ┣ 📜 ponteiros/
+ ┃ ┣ 📜 prova02/
  ┃ ┣ 📜 strings/
- ┃ ┣ 📜 structs/
  ┃ ┗ 📜 vetores-matrizes/
  ┣ 📂 pt3-semestre
+ ┃ ┣ 📜 poo/
+ ┃ ┗ 📜 structs/
  ┣ 📂 verde
- ┃ ┣ 📜 semana01/
- ┃ ┣ 📜 semana02/
- ┃ ┗ 📜 semana03/
+ ┃ ┗ 📜 semana01
+ ┃ ┗ 📜 semana02
  ┣ 📜 guia-ambiente-c.md
  ┣ 📜 LICENSE
  ┗ 📜 README.md
-```
+
 
 ---
 
