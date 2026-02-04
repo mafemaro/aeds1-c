@@ -92,8 +92,11 @@ Cada pasta contém:
  ┃ ┣ 📜 poo/
  ┃ ┗ 📜 structs/
  ┣ 📂 verde
- ┃ ┗ 📜 semana01
- ┃ ┗ 📜 semana02
+ ┃ ┗ 📜 semana01/
+ ┃ ┗ 📜 semana02/
+ ┃ ┗ 📜 semana03/
+ ┃ ┗ 📜 semana04/
+ ┃ ┗ 📜 semana05/
  ┣ 📜 guia-ambiente-c.md
  ┣ 📜 LICENSE
  ┗ 📜 README.md
